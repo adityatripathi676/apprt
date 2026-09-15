@@ -1,0 +1,26 @@
+# Python build & distribution artifacts
+*.egg-info/
+aport.egg-info/
+apprt.egg-info/
+dist/
+build/
+*.egg
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*_crash.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
